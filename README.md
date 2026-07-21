@@ -11,9 +11,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<img alt="Uptime Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Freadme-stats.nosuchserver.net%2Fapi%2Fstatus%2Fup%3Ftype%3Dshields">
+
   <a href="https://github.com/jescholl">
-  <img height="180em" src="https://github-readme-stats-mocha-zeta-12.vercel.app/api?username=jescholl&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats-mocha-zeta-12.vercel.app/api/top-langs/?username=jescholl&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5"/>
+  <img height="180em" src="https://readme-stats.nosuchserver.net/api?username=jescholl&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" src="https://readme-stats.nosuchserver.net/api/top-langs/?username=jescholl&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5"/>
 </div>
 <br>
 

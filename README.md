@@ -13,8 +13,8 @@
 <div align="center">
 
   <a href="https://github.com/jescholl">
-  <img height="180em" src="https://readme-stats.nosuchserver.net/?username=jescholl&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=21600"/>
-  <img height="180em" src="https://readme-stats.nosuchserver.net/top-langs?username=jescholl&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=21600"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
 <br>
 

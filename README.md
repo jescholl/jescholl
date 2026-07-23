@@ -32,4 +32,4 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?logo=kubernetes)
 ![](https://img.shields.io/badge/Tools-Helm-informational?logo=helm)
 ![](https://img.shields.io/badge/Tools-Nomad-informational?logo=nomad)
-![](https://img.shields.io/badge/Tools-GitLab-CI-informational?logo=gitlab)
+![](https://img.shields.io/badge/Tools-GitLab--CI-informational?logo=gitlab)

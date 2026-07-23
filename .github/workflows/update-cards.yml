@@ -21,8 +21,7 @@ jobs:
           card: stats
           options: username=jescholl&show_icons=true&include_all_commits=true&hide_rank=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
+          token: ${{ secrets.STATS_PAT }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -31,7 +30,6 @@ jobs:
           options: username=jescholl&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
 
       - name: Commit cards
         run: |
